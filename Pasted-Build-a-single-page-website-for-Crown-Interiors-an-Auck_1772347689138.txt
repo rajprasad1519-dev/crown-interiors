@@ -1,0 +1,38 @@
+Build a single-page website for Crown Interiors, an Auckland-based construction and interior fit-out firm. The site should feel premium, modern, and grounded — think dark charcoal backgrounds with warm gold (#C9A84C) accents, clean sans-serif typography, and a confident construction brand tone.
+
+BRAND DETAILS:
+- Company: Crown Interiors
+- Logo: Use the text "CROWN INTERIORS" with a crown icon (you can use a Unicode crown ♛ or SVG) styled in gold
+- Tagline: "Building Excellence Across Auckland"
+- Gold brand color: #C9A84C
+- Dark background: #1A1A1A
+- Services: Residential Building, Insulation, Plastering, Handyman Services, Painting & Decorating
+- Areas served: Auckland, Manukau, North Shore, Papakura, Waitakere
+- About blurb: "Crown Interiors is an Auckland-based construction firm specializing in a wide range of construction services. No job is too big or small for us. We have completed various commercial, industrial, residential and repair/renovation projects. We pride ourselves on delivering exceptional quality and efficiency. With a team of highly experienced framing installers, insulation installers, plasterboard fixers, quality plasterers/stoppers, and painters, we are committed to excellence in every aspect of our work."
+
+SECTIONS (single HTML file, no frameworks needed):
+1. NAVBAR — Fixed top nav with logo left, nav links right (Home, Services, Projects, About, Contact). Hamburger menu on mobile. Gold accent on hover/active.
+
+2. HERO — Full viewport height. Dark background with subtle diagonal grid/texture overlay. Large bold heading: "Auckland's Trusted Construction Specialists". Subheading and a gold CTA button "Get a Free Quote". Subtle scroll-down indicator.
+
+3. SERVICES — Clean card grid (3 columns desktop, 1 mobile). Cards for: Residential Building, Insulation, Plastering, Handyman Services, Painting & Decorating. Each card has a relevant icon (use SVG or Unicode), a title, and a short 1-line description. Dark card backgrounds with gold icon accents and a subtle hover lift effect.
+
+4. PREVIOUS PROJECTS — Masonry or uniform grid gallery. Use placeholder images from https://picsum.photos (construction/interior themed) — use seeds like picsum.photos/seed/interior1/600/400. Show 6 project cards with a project title overlay on hover (e.g. "Commercial Fit-out – Manukau", "Residential Plastering – North Shore", etc). Add a subtle zoom on hover.
+
+5. AREAS SERVED — Clean centered section listing: Auckland CBD, Manukau, North Shore, Papakura, Waitakere. Use gold separator lines or pill badges.
+
+6. ABOUT — Two-column layout: left side a construction site image (picsum.photos/seed/construction/700/500), right side the company blurb with a gold vertical left-border accent.
+
+7. CONTACT — Simple contact section with: phone placeholder "021 XXX XXXX", email placeholder "info@crowninteriors.co.nz", and a minimal contact form (Name, Email, Message, Submit button in gold). No backend needed.
+
+8. FOOTER — Dark footer with logo, copyright "© 2025 Crown Interiors Ltd. All rights reserved. Auckland, New Zealand."
+
+TECHNICAL REQUIREMENTS:
+- Single index.html file with embedded CSS and JS
+- Fully responsive (mobile-first)
+- Smooth scroll navigation
+- Sticky navbar that changes background on scroll
+- Use Google Fonts: "Playfair Display" for headings, "DM Sans" for body text
+- Subtle fade-in animations on scroll using IntersectionObserver
+- No external JS libraries needed
+- Clean, well-commented code

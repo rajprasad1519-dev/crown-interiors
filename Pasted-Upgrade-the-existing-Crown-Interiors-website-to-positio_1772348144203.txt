@@ -1,0 +1,186 @@
+Upgrade the existing Crown Interiors website to position the company as a premium commercial and large-scale residential contractor in Auckland.
+
+This is no longer just a simple construction website.
+It must feel corporate, capable, structured, and tender-ready.
+
+STYLE & DESIGN DIRECTION:
+- Premium commercial construction aesthetic
+- Dark charcoal / black base with refined gold accents
+- More white space
+- Strong grid layout
+- Clean typography hierarchy
+- Less decorative — more authoritative
+- Subtle motion only (fade, slide)
+- Corporate, structured, confident tone
+
+Add high-end builder inspiration styling similar to:
+Large commercial fit-out companies and tier 2 contractors.
+
+--------------------------------------
+NEW STRUCTURE (Commercial Focused)
+--------------------------------------
+
+1. HERO SECTION (More Authority)
+
+Headline:
+"Commercial & Residential Interior Specialists"
+
+Subheadline:
+"Delivering high-performance interior construction solutions across Auckland’s commercial, industrial and multi-residential sectors."
+
+Primary CTA:
+Request Tender Capability Statement
+
+Secondary CTA:
+View Recent Projects
+
+Add subtle animated background texture (very subtle grid or gradient).
+
+--------------------------------------
+
+2. CAPABILITY STATEMENT SECTION
+
+Title:
+Our Capabilities
+
+Short intro paragraph:
+Crown Interiors delivers structured, scalable interior construction solutions backed by experienced site management and specialist trade teams.
+
+Create professional capability blocks:
+
+• Commercial Fit-Outs  
+• Multi-Unit Residential Projects  
+• Industrial Interior Works  
+• Renovations & Refurbishments  
+• Interior Package Delivery  
+• Labour-Only & Full-Scope Contracts  
+
+Each should feel formal and concise.
+
+--------------------------------------
+
+3. WHY CHOOSE CROWN INTERIORS (RISK REDUCTION)
+
+Title:
+Why Leading Builders Choose Crown Interiors
+
+Create structured bullet-style blocks:
+
+• Experienced Site Management  
+• Programme-Focused Delivery  
+• Health & Safety Compliant  
+• Skilled Trade Teams  
+• Reliable Labour Capacity  
+• Quality Assurance Systems  
+
+Tone must feel dependable and low-risk.
+
+--------------------------------------
+
+4. PROJECT PORTFOLIO (Very Important)
+
+Title:
+Selected Projects
+
+Create a premium grid layout:
+
+- Large featured project at top (wide image)
+- 4–6 secondary projects in clean grid
+- Each project should have:
+    Project Name
+    Sector (Commercial / Residential / Industrial)
+    Short 1-line description
+
+Add hover overlay with:
+“View Project”
+
+Keep images as placeholders for now.
+
+Make this section look high-end and structured.
+
+--------------------------------------
+
+5. HEALTH & SAFETY SECTION
+
+Title:
+Health & Safety Commitment
+
+Short professional statement emphasizing:
+- Compliance
+- Site inductions
+- Risk management
+- Professional standards
+
+Keep it concise but serious.
+
+--------------------------------------
+
+6. AREAS SERVED (More Professional)
+
+Title:
+Operating Across Auckland
+
+List:
+Auckland Central  
+Manukau  
+North Shore  
+Papakura  
+Waitakere  
+
+Make it visually structured, not casual.
+
+--------------------------------------
+
+7. TENDER CONTACT SECTION
+
+Title:
+Request a Capability Statement
+
+Professional contact form:
+Name
+Company
+Email
+Phone
+Project Type (dropdown)
+Message
+
+Button:
+Submit Tender Enquiry
+
+Make this feel formal — not casual homeowner inquiry.
+
+--------------------------------------
+
+8. FOOTER (Corporate Style)
+
+Include:
+
+Crown Interiors  
+Commercial Interior Specialists  
+Auckland, New Zealand  
+
+Email placeholder  
+Phone placeholder  
+
+Simple, structured footer layout.
+
+--------------------------------------
+
+TONE GUIDELINES:
+- No phrases like “No job too big or small”
+- Remove handyman-style positioning
+- Sound structured, scalable, and commercial
+- Avoid fluffy language
+- Use confident, concise wording
+
+--------------------------------------
+
+TECHNICAL:
+- Keep it single-page
+- Maintain smooth scroll
+- Keep responsive
+- Do not overcomplicate backend
+- Optimise spacing and typography for premium feel
+- Improve visual hierarchy
+
+This website must feel like a company capable of delivering multi-million dollar projects.
